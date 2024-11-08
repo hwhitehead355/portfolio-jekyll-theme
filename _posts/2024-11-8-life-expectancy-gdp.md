@@ -1,4 +1,7 @@
-# Life Expectancy and GDP Codecademy Project
+---
+layout: post
+title: "Life Expectancy and GDP Codecademy Project"
+---
 
 ## Project Brief
 This notebook was created for a Codecademy project, and the data was provided by Codecademy. The project brief was:</br>
